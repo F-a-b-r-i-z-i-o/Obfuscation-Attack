@@ -16,3 +16,5 @@ how images and filter parameters are taken as input.
 
 In this version an input folder is passed and all the photos are modified with different intensity and alpha values for each photo. So the same for the same photo. Alpha and intensity are randomly taken only for the first photo.
 
+Python 3.8.5 
+Opencv 4.5.3
